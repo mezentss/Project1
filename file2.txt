@@ -1,2 +1,6 @@
 ghbdtn rfrltkf xnj ltkftim f&
+<<<<<<< HEAD
 ghbdtn rfr ltkf
+=======
+fgsgsgs sgdsg
+>>>>>>> testing
